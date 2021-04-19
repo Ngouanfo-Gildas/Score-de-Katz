@@ -1,5 +1,5 @@
 # Score-de-Katz
-Implémentation parallèle du score de Katz en ``C`` et l'API ``PThread``
+Implémentation parallèle du score de Katz en C et l'API PThread
 ***************************************
 
 ## Exécution
